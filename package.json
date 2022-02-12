@@ -4,7 +4,7 @@
   "description": "",
   "main": "elecapp.js",
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "ansi-regex": "^2.1.1",
     "array-find-index": "^1.0.2",
     "asn1": "^0.2.4",
